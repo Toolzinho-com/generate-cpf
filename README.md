@@ -3,7 +3,7 @@ Code JS to generate fake CPF Brazil
 
 Link: https://toolzinho.com/tool/generate-cpf
 
-```
+```js
 generate(punctuation) {
     let n = 9
     let n1 = this.random(n)
