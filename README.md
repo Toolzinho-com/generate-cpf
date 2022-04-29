@@ -1,5 +1,5 @@
 # generate-cpf
-Online Tools generate fake CPF Brazil
+Code JS to generate fake CPF Brazil
 
 Link: https://toolzinho.com/tool/generate-cpf
 
